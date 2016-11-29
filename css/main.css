@@ -1,0 +1,284 @@
+/*TIPOGRAFÍA*/
+.tw{
+	color: #ffffff;
+}
+.tb{
+	color: #000000;
+}
+.txorange{
+	color: orange;
+}
+.txprincipal{
+	font-size: 470%;
+}
+.tximage{
+	font-size: 400%;
+}
+.txcarousel{
+	font-size: 130%;
+}
+.tx10{
+	font-size: 10px;
+}
+.tx12{
+	font-size: 12px;
+}
+.tx20{
+	font-size: 20px;
+}
+.tx30{
+	font-size: 50px;
+}
+.italic{
+	font-style: italic;
+}
+/*BACKGROUNDS*/
+.navbar-default{
+	background-color: #006600;
+	height: 9em;
+}
+ul.nav a:hover { 
+	color: #fff !important;
+	background-color: transparent !important; 
+}
+.blue{
+	background-color: #0F1F2E;
+	height: 55em;
+}
+.bluemedida{
+	height: 60em;
+}
+.green{
+	background-color: #006600;
+	height: 55em;
+}
+.greenmedida{
+	height: 17em;
+}
+.thumbnail{
+	background-color: #009900;
+	border:none;
+	width: 70%;
+}
+.tbrown{
+	background-color: #663300;
+}
+.twhite{
+	background-color: #ffffff;
+}
+.tablagreen{
+	background-color: #006600;
+}
+.rsociales{
+	background-image: url(../img/img-divider-img.jpg);
+	height: 27em;
+	background-position: center;
+}
+/*IMAGENES*/
+.imguno{
+	width: 100%; 
+	height: 30em !important;
+}
+.imgAbout{
+	width: 55%;
+}
+.iconsection{
+	width: 30%;
+}
+.iconsect2{
+	width: 40%;
+	transform: rotate(15deg);
+}
+/*MARGING AND PADDING*/
+.pt{
+	padding-top: 2.5%;
+}
+.pt2{
+	padding-top: 3%;
+}
+.mt{
+	margin-top: 29%;
+}
+.mtn{
+	margin-top: -2%;
+}
+.mt2{
+	margin-top: 5%;
+}
+.mt3{
+	margin-top: 10%;
+}
+.mt4{
+	margin-top: 20%;
+}
+.mt5{
+	margin-top: 13%;
+}
+.mt6{
+	margin-top: 2%;
+}
+.mln{
+	margin-left: -3.6%;
+}
+.ml{
+	margin-left: 20%;
+}
+.ml2{
+	margin-left: 10%;
+}
+.ml3{
+	margin-left: 5%;
+}
+.ml4{
+	margin-left: 45%;
+}
+.ml5{
+	margin-left: 25%;
+}
+.mr{
+	margin-right: 2%;
+}
+.pl{
+	padding-left: 13%;
+}
+.pb{
+	padding-bottom: 2%;
+}
+.pAbout{
+	padding: 5% 5% 0% 15%;
+}
+.pSection{
+	padding: 0% 25% 0% 25%;
+}
+.pTeam{
+	padding: 0% 10% 0% 5%;
+}
+.ptable{
+	padding: 0% 10% 5% 10%;
+}
+.pClient{
+	padding: 2% 23% 0% 23%;
+}
+.mbsignup{
+	margin: 10% 0% 10% 0%;
+}
+/*BOTONES*/
+.gris{
+	background-color: #0D0D0D;
+	color: #fff;
+	border:none;
+	width: 10%;
+	height: 3em;
+}
+.gris2{
+	width: 40%;
+}
+.gris3{
+	width: 30%;
+	height: 2em;
+}
+/*CUADROS*/
+.cuno{
+	background-color: #89D2E7;
+	height: 10em;
+	width: 17%;
+}
+.cdos{
+	background-color: #a7dbdb;
+}
+.ctres{
+	background-color: #E0E4CC;
+}
+.ccuatro{
+	background-color: #F38630;
+}
+.ccinco{
+	background-color: #FA6900;
+}
+.seis{
+	background-color: #E94C6F;
+}
+.siete{
+	background-color: #542733;
+}
+.ocho{
+	background-color: #5A6A62;
+}
+.nueve{
+	background-color: #C6D5CD;
+}
+.diez{
+	background-color: #FDF200;
+}
+.once{
+	background-color: #DB3340;
+}
+.doce{
+	background-color: #E8B71A;
+}
+.trece{
+	background-color: #F7EAC8;
+}
+.ktorce{
+	background-color: #1FDA9A;
+}
+.quince{
+	background-color: #28ABE3;
+}
+.dseis{
+	background-color: #588C73;
+}
+.dsiete{
+	background-color: #F2E394;
+}
+.docho{
+	background-color: #F2AE72;
+}
+.dnueve{
+	background-color: #D96459;
+}
+.veinte{
+	background-color: #8C4646;
+}
+.vuno{
+	background-color: #D0C91F;
+}
+.vdos{
+	background-color: #85C4B9;
+}
+.vtres{
+	background-color: #008BBA;
+}
+.vcuatro{
+	background-color: #DF514C;
+}
+.vcinco{
+	background-color: #DC403B;
+}
+/*OTRO*/
+.hr{
+	height: 0.2em;
+	width: 40%;
+	background-color: #000000;
+}
+.puntitos{
+	width: 50%;
+	border: 1px dotted;
+}
+.hw{
+	background-color: #ffffff;
+}
+.hrtouch{
+	width: 15%;
+}
+.progress{
+	height: 0.8em;
+}
+#message{
+	padding-bottom: 25%;
+	padding-top: 3%;
+}
+.cajamail{
+	width: 60%;
+}
+

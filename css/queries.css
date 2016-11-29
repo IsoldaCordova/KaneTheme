@@ -1,0 +1,223 @@
+/* Extra Small */
+@media(max-width:640px){
+	#logo{
+		display: block;
+		margin-top: -5%;
+		margin-left: 4%;
+		width: 30%;
+	}
+	.navbar-header{
+		margin-top: 13%;
+	}
+	.tximage{
+		font-size: 120% !important;
+	}
+	.txcarousel{
+		font-size: 90% !important;
+	}
+	.txprincipal{
+		font-size: 300% !important;
+	}
+	.cuno{
+		height: 4.5em !important;
+		width: 17% !important;
+	}
+	.tb{
+		font-size: 7px;
+	}
+	.pAbout{
+		padding: 5% 15% 0% 15% !important; 
+	}
+	.blue{
+		height: 40em !important;
+	}
+	.thumbnail{
+		background-color: transparent !important;
+		margin-left: 15%;
+	}
+	.iconsect2{
+		transform: rotate(0deg)!important;
+	}
+	.gris{
+		width: 35%!important;
+	    height: 3em;
+	    margin-left: 34% !important;
+	    padding: 2% 0% 2% 0%;
+	}
+	#awesome{
+		margin-left: 40%;
+	}
+	.hrAwesome{
+		margin-left: 45%;
+	}
+	.team{
+		width: 80%;
+	}
+	.team2{
+		margin-left: 14%!important;
+	}
+	.green{
+	background-color: #006600;
+	height: 80em !important;
+    }
+    .tx20{
+    	font-size: 30px!important;
+    }
+    .qb{
+    	margin-bottom: 18%;
+    }
+    .extra{
+    	font-size: 17px;
+    }
+    .bluemedida{
+    	height: 129.5em !important;
+    }
+    .blueextra{
+    	height: 40em!important;
+    }
+    .col-sm-6{
+    	width: 70%;
+    	margin-left: -8%;
+    }
+    table{
+    	margin-left: 35%;
+    }
+    .rsociales{
+    	height: 20em !important;
+    }
+    .greenmedida{
+    	height: 40em !important;
+    }
+    .cajamail{
+    	margin-left: 20%;
+    }
+}
+
+/* Sm*/
+@media(min-width:641px) and (max-width:991px){
+	#logo{
+		display: block;
+		margin-top: 30%;
+		margin-left: 15%;
+		width: 80%;
+	}
+	.txprincipal{
+		font-size: 400% !important;
+	}
+	#awesome{
+		margin-top: 20%;
+	}
+	.pAbout{
+		margin-bottom: 10%;
+	}
+	.tximage{
+		font-size: 250% !important;
+	}
+	.txcarousel{
+		font-size: 110% !important;
+	}
+	.green{
+	background-color: #006600;
+	height: 80em !important;
+    }
+    .blue{
+		height: 60em!important;
+	}
+	.thumbnail{
+		background-color: transparent!important;
+		margin-left: 15%;
+	}
+	.iconsection{
+		width: 20%!important;
+	}
+	.qbottom{
+		margin-bottom: 5%;
+	}
+	.iconsect2{
+		width: 30%!important;
+		transform: rotate(0deg)!important;
+	}
+	.ourawesome{
+		padding-top: 25%;
+		height: 120em!important;
+	}
+	.clientS{
+		height: 100em!important;
+	}
+	.qb{
+		margin-bottom: 10%;
+	}
+	.tabledos{
+		margin-bottom: 25%!important;
+	}
+    .cajamail{
+    	margin-left: 25%;
+    }
+    .greenmedida{
+    	height: 15em!important;
+    }
+    .gris3{
+    	height: 2.5em!important;
+    	width: 65%!important;
+    }
+}
+
+/* Md */
+@media(min-width:992px) and (max-width:1199px){
+ #logo{
+		display: block;
+		margin-top: 36%;
+		margin-left: 14%;
+		width: 90% !important;
+	}
+ .txprincipal{
+		font-size: 400% !important;
+	}
+ .tximage{
+		font-size: 330% !important;
+	}
+ .txcarousel{
+		font-size: 110% !important;
+	}
+  .iconsection{
+		width: 15%!important;
+	}
+  .qbottom{
+		margin-bottom: 5%;
+	}
+  .iconsect2{
+		width: 20%!important;
+		transform: rotate(0deg)!important;
+	}
+	.green{
+		height: 100em!important;
+	}
+	.thumbnail{
+		background-color: transparent!important;
+		margin-left: 15%;
+	}
+	.qb{
+		margin-bottom: 25%;
+	}
+	.ourawesome{
+		padding-top: 15%;
+	}
+	.footer{
+		height: 18em!important;
+	}
+	.gris3{
+		height: 2.5em!important;
+    	width: 65%!important;
+	}
+}
+
+/* Large */
+@media(min-width:1200px){
+	#logo{
+		display: block;
+		margin-top: 30%;
+		margin-left: 18%;
+		width: 90%;
+	}
+
+}
