@@ -45,10 +45,12 @@
 	    padding: 2% 0% 2% 0%;
 	}
 	#awesome{
-		margin-left: 40%;
+		margin-top: -6em;
+    	margin-left: 3em;
+    	margin-right: 3em;
 	}
 	.hrAwesome{
-		margin-left: 45%;
+		margin-left: 30%;
 	}
 	.team{
 		width: 80%;
@@ -58,7 +60,7 @@
 	}
 	.green{
 	background-color: #006600;
-	height: 80em !important;
+	height: 90em !important;
     }
     .tx20{
     	font-size: 30px!important;
@@ -88,11 +90,33 @@
     .greenmedida{
     	height: 40em !important;
     }
+    .dos{
+    	height: 48em!important;
+    }
     .cajamail{
     	margin-left: 20%;
     }
-}
+    .mbsignup{
+    	margin-right: 6em!important;
+    }
 
+	.ml5{
+	margin-left: 28%!important;
+	}
+	.fasociales{
+		width: 20%;
+	}
+	.news{
+		margin-left: 6em!important;
+	}
+	.hrtouch{
+		width: 15em!important;
+	}
+	.foot{
+		margin-top: 4em;
+		margin-bottom: 1em;
+	}
+}
 /* Sm*/
 @media(min-width:641px) and (max-width:991px){
 	#logo{

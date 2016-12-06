@@ -1,3 +1,4 @@
+
 /*TIPOGRAFÍA*/
 .tw{
 	color: #ffffff;
@@ -31,6 +32,9 @@
 }
 .italic{
 	font-style: italic;
+}
+input{
+	border: none!important;
 }
 /*BACKGROUNDS*/
 .navbar-default{
